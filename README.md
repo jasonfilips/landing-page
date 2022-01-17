@@ -12,7 +12,7 @@ Skills that should be tested through this project:
 - Getting more accustomed with layout using css. 
 - Practicing flexbox and other box layouts.
 
-** Credit
+## Credit
 - Pixabay: https://www.pexels.com/@pixabay
 - Vivien: https://www.pexels.com/@vivien-18907456
 - Tirachard Kumtanom: https://www.pexels.com/@tirachard-kumtanom-112571
