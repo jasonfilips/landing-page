@@ -26,7 +26,7 @@ header {
     padding: 15px 15vw 15px 15vw;
 }
 
-header img {
+header h1 {
     margin-right: auto;
     font-size: 32px;
     font-weight: 900;
@@ -123,8 +123,8 @@ main .content img{
 .information .information-pics img{
     height: 13vw;
     width: 13vw;
-    border: 0.5vw solid #660708;
-    border-radius: 10%;
+    border: 0.5vw solid #6607087F;
+    border-radius: 5%;
 }
 
 .quote {
@@ -185,7 +185,7 @@ main .content img{
 
 .sign-up-background a{
     display: flex;
-    align-self: flex-start;
+    align-self: center;
     justify-content: center;
     align-items: center;
 
