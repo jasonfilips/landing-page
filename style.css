@@ -26,8 +26,18 @@ header {
     padding: 15px 15vw 15px 15vw;
 }
 
-header h1 {
+header .logo{
     margin-right: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+header .logo p{
+    align-self: flex-end;
+    padding: 0 0 10px 0;
+}
+
+header h1 {
     font-size: 32px;
     font-weight: 900;
 }
@@ -35,6 +45,11 @@ header h1 {
 header a {
     color: #f5f3f4;
     font-weight: 700;
+    font-size: 20px;
+}
+
+header a:hover{
+    color: #e5383b;
 }
 
 main {
@@ -125,6 +140,11 @@ main .content img{
     width: 13vw;
     border: 0.5vw solid #6607087F;
     border-radius: 5%;
+}
+
+.information .pic-text{
+    text-align: center;
+    width: 13vw;
 }
 
 .quote {
